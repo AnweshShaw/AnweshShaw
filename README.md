@@ -2,9 +2,9 @@
 <h3 align="center">Always Learning</h3>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working on **Machine Learning**
 
-- 🤝 I’m looking for help with **Full Stack Development,Open Source**
+- 🤝 I’m looking for help with **Machine Learning,Open Source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnweshShaw/AnweshShaw](https://github.com/AnweshShaw/AnweshShaw)
 
