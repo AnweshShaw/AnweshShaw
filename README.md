@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anweshshaw&" alt="anweshshaw" /></p><hr><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnweshShaw)](https://github.com/AnweshShaw/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=AnweshShaw)](https://github.com/AnweshShaw/github-profile-trophy)-->
