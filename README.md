@@ -27,6 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anweshshaw&show_icons=true&locale=en" alt="anweshshaw" /></p><hr><br><br>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anweshshaw&" alt="anweshshaw" /></p>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=AnweshShaw)](https://github.com/AnweshShaw/github-profile-trophy)-->
