@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anwesh</h1>
 <h3 align="center">Always Learning</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div> <hr>
 
 - 🌱 I’m currently working on **Machine Learning**
 
