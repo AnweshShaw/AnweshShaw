@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anwesh</h1>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <h3 align="center">Always Learning</h3>
 
 <div align="center">
