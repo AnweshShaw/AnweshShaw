@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anwesh</h1>
 <div align="center">
-  <a href="https://in.linkedin.com/in/anwesh-shaw-4ab06">
+  <!--<a href="https://in.linkedin.com/in/anwesh-shaw-4ab06">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a>-->
   <img src="https://komarev.com/ghpvc/?username=AnweshShaw&style=flat-square&color=blue" alt=""/>
 </div>
 <h3 align="center">Always Learning</h3>
