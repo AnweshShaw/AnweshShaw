@@ -32,6 +32,7 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats-PAT_1.vercel.app/api?username=anweshshaw&show_icons=true&locale=en" alt="anweshshaw" /></p><hr><br><br>-->
 
 <h3 align="left">My Contributions:</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnweshShaw)](https://github.com/AnweshShaw/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anweshshaw&theme=dark&background=000000" alt="anweshshaw" /></p>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=AnweshShaw)](https://github.com/AnweshShaw/github-profile-trophy)-->
