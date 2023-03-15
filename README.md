@@ -31,7 +31,8 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats-PAT_1.vercel.app/api?username=anweshshaw&show_icons=true&locale=en" alt="anweshshaw" /></p><hr><br><br>-->
 
-<h3 align="left">My Contributions:</h3>
+<h3 align="left">My Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnweshShaw&theme=dark&background=000000" alt="anweshshaw" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnweshShaw&theme=dark&background=000000" alt="anweshshaw" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anweshshaw&theme=dark&background=000000" alt="anweshshaw" /></p>
 
