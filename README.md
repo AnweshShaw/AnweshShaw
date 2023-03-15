@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anwesh</h1>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=AnweshShaw&style=flat-square&color=blue" alt=""/></div>
+<div align="center">
+  <a href="https://in.linkedin.com/in/anwesh-shaw-4ab06">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AnweshShaw&style=flat-square&color=blue" alt=""/>
+</div>
 <h3 align="center">Always Learning</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> <hr>
+
+<h3 align="left">About me:</h3>
 
 - 🌱 I’m currently working on **Machine Learning**
 
@@ -14,7 +21,7 @@
 
 - 📫 How to reach me **anweshshaw1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<hr><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/anwesh_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/anwesh_shaw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/anwesh-shaw-4ab06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/anwesh-shaw-4ab06" height="30" width="40" /></a>
