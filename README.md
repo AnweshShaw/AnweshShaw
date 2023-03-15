@@ -23,7 +23,6 @@
 
 <hr><h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/anwesh_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/anwesh_shaw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/anwesh-shaw-4ab06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/anwesh-shaw-4ab06" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/anwesh.shaw.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anwesh.shaw.90" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/anwesh_shaw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anwesh_shaw/" height="30" width="40" /></a>
