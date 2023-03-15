@@ -33,7 +33,7 @@
 
 <h3 align="left">My Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnweshShaw&theme=dark&background=000000" alt="anweshshaw" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnweshShaw&theme=dark&background=000000" alt="anweshshaw" /></p><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnweshShaw&theme=dark&background=000000" alt="anweshshaw" /></p><br><br><br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anweshshaw&theme=dark&background=000000" alt="anweshshaw" /></p>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=AnweshShaw)](https://github.com/AnweshShaw/github-profile-trophy)-->
