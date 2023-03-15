@@ -28,9 +28,6 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anweshshaw&show_icons=true&locale=en&layout=compact" alt="anweshshaw" /></p>-->
 
-<h3 align="left">My Stats:</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnweshShaw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <hr>
-
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats-PAT_1.vercel.app/api?username=anweshshaw&show_icons=true&locale=en" alt="anweshshaw" /></p><hr><br><br>-->
 
 <h3 align="left">My Contributions:</h3>
