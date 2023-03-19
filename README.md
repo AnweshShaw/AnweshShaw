@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning,Open Source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnweshShaw/AnweshShaw](https://github.com/AnweshShaw/AnweshShaw)
+- 👨‍💻 All of my projects are available at [https://github.com/AnweshShaw](https://github.com/AnweshShaw)
 
 - 📫 How to reach me **anweshshaw1@gmail.com**
 
